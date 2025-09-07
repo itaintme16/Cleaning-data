@@ -1,6 +1,6 @@
 Data cleaning project 
 
-The project focuses on cleaning the raw data taken from Kaggle.
+The project focuses on cleaning the raw data of layoff from different companies,the dataset is taken from kaggle.
 All of the queries are written in SQL .
 Actions Performed
 1.Removing Duplicates
